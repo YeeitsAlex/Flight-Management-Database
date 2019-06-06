@@ -1,2 +1,4 @@
-# Flight-Management-Database
-Flight Management Database
+# Database-Management-Systems
+Repository for all database labs
+
+
